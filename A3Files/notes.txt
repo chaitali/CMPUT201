@@ -1,0 +1,24 @@
+
+
+
+draw the ship starting @ zero. 
+
+left key- rotate left function, counterclockwise  10 degrees eachclcik
+right key- rotate right function, clockwise
+
+
+okay a) one function to erase the stuff
+b) another one todraw it
+c) another one to rotate left
+d) rotate right
+e) 
+COMPLETELY FINISH ROTATE AND FALLING TODAY!!!!!!!!!!!!!
+
+
+
+
+
+
+
+
+

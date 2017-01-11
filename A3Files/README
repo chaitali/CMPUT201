@@ -1,0 +1,31 @@
+name:               Chaitali Patel
+ONE Card number:    1404270
+Unix id:            cpatel1
+lecture section:    B1
+instructor's name:  Jacqueline Smith
+lab section:        H01
+TA's name:          Nicolas Barriga, Shida He
+
+DOES THE FOLLOWING:
+
+The program will read in an input file for the landscape coordinates and
+implements a lunar lander game, where the left and right arrows will 
+rotate the lander counter-clockwise and clockwise respectively, and 
+the space bar will activate the lander's thrust. The lander will land 
+safely if the velocity is less than 15, the lander has an angle of 90 degrees 
+and lands on a flat surface. 
+
+Compile by typing make. 
+
+Run by typing:
+	./lander -g # -t # -f landscapefile.txt
+
+To get added improvements add a -i. 
+
+The improvements to this game are:
+
+1. The ability for the lander to wrap around the edges of the screen. 
+2. The crash landing of the lander
+3. Adding a fuel bar to the game
+
+

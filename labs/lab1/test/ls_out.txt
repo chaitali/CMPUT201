@@ -1,0 +1,12 @@
+total 18K
+drwx------+ 2 cpatel1 ugrad  2 Jan 12 14:52 Desktop
+drwx------+ 2 cpatel1 ugrad  2 Jan 15  2014 Documents
+drwx------+ 2 cpatel1 ugrad 17 Nov 26 19:22 Downloads
+drwx------+ 2 cpatel1 ugrad  2 Jan 15  2014 Music
+drwx------+ 2 cpatel1 ugrad  3 Nov 26 19:22 Pictures
+drwx------+ 2 cpatel1 ugrad  2 Jan 15  2014 Public
+drwx------+ 2 cpatel1 ugrad  2 Jan 15  2014 Templates
+drwx------+ 2 cpatel1 ugrad  2 Jan 15  2014 Videos
+drwx------+ 2 cpatel1 ugrad  4 Apr  2  2014 __pycache__
+drwx------+ 2 cpatel1 ugrad 53 Jan 12 14:52 cmput
+drwx------+ 5 cpatel1 ugrad  5 Jan 12 14:41 cmput201

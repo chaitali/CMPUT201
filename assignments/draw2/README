@@ -1,0 +1,20 @@
+name:               Chaitali Patel
+ONE Card number:    1404270
+Unix id:            cpatel1
+lecture section:    B1
+instructor's name:  Jacqueline Smith
+lab section:        H01
+TA's name:          Nicolas Barriga, Shida He
+
+DOES THE FOLLOWING:
+
+This program will read from an input file and program will implement storing, drawing and writing the Image data contained in the input file. This program will write to SketchPad and will output the data as an image. 
+
+
+Compile by typing make. 
+
+Run by typing:
+	 ./draw1b ./inputfile.1
+where inputfile.1 is any text file with valid input for draw1b. 
+
+I did not collaborate with anyone. 
