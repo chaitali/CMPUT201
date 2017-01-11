@@ -1,0 +1,19 @@
+name:               Chaitali Patel
+ONE Card number:    1404270
+Unix id:            cpatel1
+lecture section:    B1
+instructor's name:  Jacqueline Smith
+lab section:        H01
+TA's name:          Nicolas Barriga, Shida He
+
+DOES THE FOLLOWING:
+
+Reads in the first token of each line in an input file and prints the number of occurences of each key token. The eight keywords are as follows: Image, lineTo, End, print, draw, translate, child, #. 
+
+Compile by typing make. 
+
+Run by typing:
+	 ./draw1a ./inputfile.1
+where input_file.1 is any text file with valid input for draw1a. 
+
+I did not collaborate with anyone. 
